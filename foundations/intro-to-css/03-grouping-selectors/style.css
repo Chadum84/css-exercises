@@ -1,10 +1,10 @@
-.two {
-     color: white; background-color: black;
-}
-
-.three {
+.two, .single {
     font-size: 28px; 
     font-family: Helvetica, Times New Roman, sans-serif;
+}
+
+.two {
+     color: white; background-color: black;
 }
 
 .single {
